@@ -62,6 +62,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Asterisk-FF9900?logo=asterisk&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
 ---
