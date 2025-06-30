@@ -5,19 +5,17 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Ömer Faruk Güven</h1>
-<h3 align="center">A passionate Integration & Cybersecurity Engineer from Turkey</h3>
+<h3 align="center">A passionate Integration Engineer from Turkey</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=omerfarukguven&label=Profile%20views&color=0e75b6&style=flat" alt="omerfarukguven" /> 
 </p>
 
-- 👨‍💻 I’m currently working as **Integration Engineer** at [ONUR Yüksek Teknoloji](https://www.onur.net/)
-- 🌱 I’m currently improving myself in **Linux Systems**, **Red Teaming**, and **Network Security**
-- 🛡️ I completed **Cybersecurity Internships** at Crypttech and Brandefense
+
 - 🎓 Electrical Electronics Engineering graduate from **Gazi University** (2020–2025)
 - 💬 Ask me about **Linux, Python, System Integration, and Cybersecurity**
 - 📫 How to reach me: **ofaruk.guvn@gmail.com**
-- 🌍 Based in **Ankara, Turkey**
+- 📄 Know about my experiences https://flowcv.com/resume/9pbr8bfnjl5r
 
 ---
 
@@ -33,7 +31,7 @@
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.asterisk.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Asterisk_logo.svg" alt="asterisk" width="40" height="40"/></a> 
+  <a href="https://www.asterisk.org/" target="_blank"><img src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png" alt="asterisk" width="40" height="40"/></a> 
   <a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> 
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a> 
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a> 
@@ -43,17 +41,22 @@
 
 <h3 align="left">💼 Experience Summary:</h3>
 
-- 🧩 **Integration Engineer** – ONUR Yüksek Teknoloji (2025 – Present)  
-  Linux sistem kurulumu, NTP, IP yapılandırmaları ve entegrasyon görevleri
+- 🧩 **Integration Engineer** – ONUR Yüksek Teknoloji (02.2025 – Present)  
+   Applied Linux commands for system integration within the primary framework.
 
-- 🛡️ **Cybersecurity Intern** – Crypttech (2024 – 1 ay)  
-  SIEM kurulumu, log analizi, correlation rule yazımı ve Linux CLI pratikleri
+- 🛡️ **Cybersecurity Intern** – Crypttech (08.2024 – 09.2024)  
+   Gained hands-on experience in log collection and analysis, SIEM product
+installation, Linux CLI usage, resource integration, and writing correlation rules
+during a cybersecurity internship at Crypttech.
 
-- 🎯 **Cybersecurity Mentorship** – Brandefense (2024 – 2 ay)  
-  Red Team & Blue Team teorileri, SQL ve Linux sistem laboratuvarları
+- 🎯 **Cybersecurity Mentorship** – Brandefense (06.2024 – 08.2024)  
+   Developed expertise in red teaming techniques, Linux system operations, and SQL
+through hands-on labs and theoretical studies in cybersecurity
 
-- 🔬 **R&D Engineer Intern** – Senstec (2023 – 1 ay)  
-  Elektronik ve biyomedikal cihazlar üzerine araştırma ve geliştirme çalışmaları
+- 🔬 **R&D Engineer Intern** – Senstec (07.2023 – 08.2023)  
+   Conducted research on electronics and biomedical systems; contributed to the
+development of a non domestic liquid oxygen measurement device during an
+R&D internship at Senstec
 
 ---
 
