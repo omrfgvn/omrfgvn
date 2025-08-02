@@ -42,7 +42,9 @@
 <h3 align="left">💼 Experience Summary:</h3>
 
 - 🧩 **Integration Engineer** – ONUR Yüksek Teknoloji (02.2025 – 08.2025)  
-   Applied Linux commands for system integration within the primary framework.
+   Leveraged advanced Linux command-line expertise and scripting skills (Python/Bash) to 
+perform system integration and automation, including the deployment and configuration of 
+tools such as Asterisk, Suricata, and Ansible in TCP/UDP/IP-based network environments. 
 
 - 🛡️ **Cybersecurity Intern** – Crypttech (08.2024 – 09.2024)  
    Gained hands-on experience in log collection and analysis, SIEM product
