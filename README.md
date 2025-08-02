@@ -41,7 +41,7 @@
 
 <h3 align="left">💼 Experience Summary:</h3>
 
-- 🧩 **Integration Engineer** – ONUR Yüksek Teknoloji (02.2025 – Present)  
+- 🧩 **Integration Engineer** – ONUR Yüksek Teknoloji (02.2025 – 08.2025)  
    Applied Linux commands for system integration within the primary framework.
 
 - 🛡️ **Cybersecurity Intern** – Crypttech (08.2024 – 09.2024)  
